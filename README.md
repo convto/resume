@@ -13,6 +13,9 @@
 - Go
     - 直近の業務でも利用しています
     - 言語本体や標準ライブラリ郡への理解は書いてきた言語の中で一番深いです
+    - 5分程度のLTで何度かコミュニティで発表しています。つぎは20min程度の発表を目指しています
+        - Go Conference Spring 2022 LT https://speakerdeck.com/convto/how-to-follow-go-runtime-function
+        - golang.tokyo #32 LT https://speakerdeck.com/convto/bytelie-falsebitbiao-xian-wode-ruencodingraiburarizuo-tuta
 - Ruby
     - おもに Ruby on Rails を利用したWebアプリケーション開発の文脈で利用していました
     - ちょっとしたワンライナーなどを書くときにいまでも利用したりします
