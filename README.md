@@ -52,7 +52,7 @@
 ウォレットアプリの開発、なかでも銀行との入出金関連の機能開発を主に担当しました。  
 KyashはVisaのprocessing業務を内政しており、その都合でいくつか決済に関連する開発も経験しました。
 
-また、体外向けのイベントである [Kyash TechTalk #4](https://kyash.connpass.com/event/257971/) を企画/主催したり、開発以外の業務も精力的に行いました。
+また、対外向けのイベントである [Kyash TechTalk #4](https://kyash.connpass.com/event/257971/) を企画/主催したり、開発以外の業務も精力的に行いました。
 
 - Kyash Directの開発
     - 半年ほど開発に参加したのち、事業譲渡
