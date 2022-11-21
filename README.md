@@ -49,7 +49,7 @@ KyashはVisaのprocessing業務を内製しており、その都合でいくつ�
 - Kyash Directの開発 (2020.1 ~ 2020.8)
     - 半年ほど開発に参加したのち、事業譲渡
     - 構成としてはマイクロサービス + 各サービス間の通信を基本的に非同期通信とするチャレンジングな構成でした
-    - https://speakerdeck.com/k315k1010/uoretutoapurikyashfalsexian-kyash-directfalseakitekutiya
+    - 当時の開発をリードしていたメンバーの [発表資料](https://speakerdeck.com/k315k1010/uoretutoapurikyashfalsexian-kyash-directfalseakitekutiya) に構成などは詳しいです
     - 振り切ったプロジェクトだったのでメリット/デメリットがはっきりしていて、この経験から、システムの各種要件や求められるデータの整合性からどのような構成がより要求に答えられるシステムになるのか意識しながら開発するようになったと思います
 
 ### 株式会社ジシバリ(2017.1 ~ 2020.1)
